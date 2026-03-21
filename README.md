@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Anis.
 
-<!--
-**Granis75/Granis75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CRM & Digital Operations Specialist.** Focused on building premium SaaS experiences and optimizing business systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+* **MIBI**: Building a high-performance Business Intelligence SaaS.
+* **Architecture**: Scalable React applications with Supabase & Vercel.
+* **Design**: Minimalist UI/UX inspired by Apple & Klarna.
+
+### Technical Stack
+* **Frontend**: React, TypeScript, Tailwind CSS, Next.js.
+* **Backend & Ops**: Supabase (Postgres), Stripe, Vercel.
+* **Workflow**: Automated CRM & Business Operations.
+
+---
+
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/anisallouache/)
