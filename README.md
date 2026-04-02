@@ -1,20 +1,63 @@
-# Hello, I'm Anis.
+# Hello, I'm Anis
 
-**CRM & Digital Operations Specialist.** Focused on building premium SaaS experiences and optimizing business systems.
+Product-Oriented Operations | Business Systems & Implementation  
 
----
-
-### Current Focus
-* **MIBI**: Building a high-performance Business Intelligence SaaS.
-* **Architecture**: Scalable React applications with Supabase & Vercel.
-* **Design**: Minimalist UI/UX inspired by Apple & Klarna.
-
-### Technical Stack
-* **Frontend**: React, TypeScript, Tailwind CSS, Next.js.
-* **Backend & Ops**: Supabase (Postgres), Stripe, Vercel.
-* **Workflow**: Automated CRM & Business Operations.
+I structure real-world operations into clear, scalable systems.  
+My work focuses on connecting workflows, data and execution — from operations to financial tracking.
 
 ---
 
-### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/anisallouache/)
+## What I Do
+
+- Structure operational workflows (CRM, invoicing, payments)
+- Design system logic and data models
+- Improve visibility, execution and financial tracking
+- Translate business needs into usable systems
+
+---
+
+## Current Focus
+
+**MyBi — Business Operating System**  
+A system designed to structure freelance operations end-to-end:
+
+Client → Mission → Invoice → Payment  
+
+Focus on:
+- workflow consistency  
+- financial logic  
+- operational visibility  
+
+---
+
+## Approach
+
+I work at the intersection of operations, product and data.
+
+Rather than adding tools, I focus on:
+- structuring workflows  
+- simplifying execution  
+- making systems easier to manage and control  
+
+---
+
+## Stack (support, not the focus)
+
+**Frontend:** React, TypeScript, Tailwind  
+**Backend:** Supabase (PostgreSQL)  
+**Infra:** Vercel  
+
+---
+
+## Selected Work
+
+- Vesper Collection — Operations structured into a scalable system  
+- Kepler Express — Logistics workflows connected into a unified system  
+
+---
+
+## Contact
+
+Paris, France  
+LinkedIn: https://www.linkedin.com/in/anisallouache  
+Website: https://anisconsult.com
