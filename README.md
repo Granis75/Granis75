@@ -1,63 +1,77 @@
 # Hello, I'm Anis
 
-Product-Oriented Operations | Business Systems & Implementation  
+**Business Systems · Internal Tools · Operations Software**
 
-I structure real-world operations into clear, scalable systems.  
-My work focuses on connecting workflows, data and execution — from operations to financial tracking.
+I build practical systems that help businesses structure workflows, track execution and manage operations with more clarity.
+
+My work focuses on turning real operational processes into usable web applications, dashboards and internal tools.
 
 ---
 
-## What I Do
+## What I Build
 
-- Structure operational workflows (CRM, invoicing, payments)
-- Design system logic and data models
-- Improve visibility, execution and financial tracking
-- Translate business needs into usable systems
+* CRM and client management workflows
+* Mission, task and operational tracking systems
+* Invoicing, payment and financial follow-up tools
+* Dashboards for visibility and decision-making
+* Internal tools for small teams and service businesses
 
 ---
 
 ## Current Focus
 
-**MyBi — Business Operating System**  
-A system designed to structure freelance operations end-to-end:
+### MyBi — Freelancer Business OS
 
-Client → Mission → Invoice → Payment  
+A business operating system designed to help freelancers manage their activity end-to-end:
 
-Focus on:
-- workflow consistency  
-- financial logic  
-- operational visibility  
+**Client → Mission → Invoice → Payment**
+
+Focus areas:
+
+* client and mission tracking
+* invoice and payment logic
+* business visibility
+* workflow consistency
 
 ---
 
 ## Approach
 
-I work at the intersection of operations, product and data.
+I work at the intersection of **operations, product and data**.
 
-Rather than adding tools, I focus on:
-- structuring workflows  
-- simplifying execution  
-- making systems easier to manage and control  
+My goal is not to add more tools.
+My goal is to build clear systems that make daily work easier to manage, execute and control.
 
 ---
 
-## Stack (support, not the focus)
+## Stack
 
-**Frontend:** React, TypeScript, Tailwind  
-**Backend:** Supabase (PostgreSQL)  
-**Infra:** Vercel  
+**Frontend:** React, TypeScript, Tailwind
+**Backend:** Supabase / PostgreSQL
+**Infra:** Vercel
+
+Technology supports the work. The focus is always the business workflow.
 
 ---
 
 ## Selected Work
 
-- Vesper Collection — Operations structured into a scalable system  
-- Kepler Express — Logistics workflows connected into a unified system  
+### Kepler Express — Logistics Operations System
+
+Internal system for managing missions, expenses, invoices and payments in a logistics workflow.
+
+### MyBi — Freelancer Business OS
+
+End-to-end business workflow for clients, missions, invoicing and payment tracking.
+
+### Lyan Studio — Independent Software Studio
+
+Website and portfolio for custom web applications, MVPs and internal tools.
 
 ---
 
 ## Contact
 
-Paris, France  
-LinkedIn: https://www.linkedin.com/in/anisallouache  
-Website: https://anisconsult.com
+Paris, France
+LinkedIn: https://www.linkedin.com/in/anisallouachepro
+Website: https://www.lyanstudio.com/
