@@ -18,21 +18,21 @@ My work focuses on turning real operational processes into usable web applicatio
 
 ---
 
-## Current Focus
+## Active Projects
 
-### MyBi — Freelancer Business OS
+### MyBi — Business Operations Tool
 
-A business operating system designed to help freelancers manage their activity end-to-end:
+I use MyBi to manage my own day-to-day freelance activity, from client and mission tracking to invoicing and payment follow-up.
 
 **Client → Mission → Invoice → Payment**
 
-Focus areas:
+### StayOps Core — Hospitality Team Operations
 
-* client and mission tracking
-* invoice and payment logic
-* business visibility
-* workflow consistency
+Active software project focused on room readiness, housekeeping, maintenance, shift handovers, inventory and day-to-day coordination in small hospitality teams.
 
+### AlCaisse — Offline Point of Sale
+
+Windows-based cash register and stock management software designed to work without internet. Hardware field testing and local regulatory requirements remain to be validated.
 ---
 
 ## Approach
@@ -58,16 +58,15 @@ Technology supports the work. The focus is always the business workflow.
 
 ### Kepler Express — Logistics Operations System
 
-Internal system for managing missions, expenses, invoices and payments in a logistics workflow.
+A reference implementation connecting missions, expenses, invoicing and payments for logistics operations.
 
-### MyBi — Freelancer Business OS
+### AnisConsult — Operations Portfolio
 
-End-to-end business workflow for clients, missions, invoicing and payment tracking.
+Professional portfolio documenting operational projects and process-improvement case studies: https://anisconsult.com/
 
-### Lyan Studio — Independent Software Studio
+### Lyan Studio — Software Studio
 
-Website and portfolio for custom web applications, MVPs and internal tools.
-
+Portfolio of operational software and internal-tool work: https://www.lyanstudio.com/
 ---
 
 ## Contact
