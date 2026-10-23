@@ -1,76 +1,42 @@
-# Hello, I'm Anis
+# Anis — Operations, Software & Internal Tools
 
-**Business Systems · Internal Tools · Operations Software**
+I work at the intersection of **day-to-day operations and software development**. My professional background is operational coordination; I also design and build applications to structure workflows, track execution and reduce manual follow-up.
 
-I build practical systems that help businesses structure workflows, track execution and manage operations with more clarity.
+**I distinguish tools I use, working prototypes, and reference implementations.** A code repository or live demo is not evidence of a paying client, production adoption or employment in software.
 
-My work focuses on turning real operational processes into usable web applications, dashboards and internal tools.
+## Start here — three concrete examples
 
----
+| Project | What to inspect | Real status | Where to see it |
+|---|---|---|---|
+| **MyBi** | Client → mission → invoice → payment workflow | Personal business tool in use; source private | [Lyan Studio case](https://www.lyanstudio.com/work.html#mybi) |
+| **StayOps Core** | Reservation → check-in → check-out → housekeeping → room ready; role separation | Working hospitality PMS prototype; private source | [Read-only demo](https://stayops.lyanstudio.com/demo/workspace) · [Planning](https://stayops.lyanstudio.com/demo/planning) |
+| **AlCaisse** | Offline POS on Windows; local SQLite transactions, stock, cash sessions and backups | Functional desktop prototype; physical hardware and compliance validation pending; source private | [Case study](https://www.lyanstudio.com/alcaisse.html) · [Browser presentation](https://www.lyanstudio.com/alcaisse-demo.html) |
 
-## What I Build
+### Other work
 
-* CRM and client management workflows
-* Mission, task and operational tracking systems
-* Invoicing, payment and financial follow-up tools
-* Dashboards for visibility and decision-making
-* Internal tools for small teams and service businesses
+- **[IT Ops Desk](https://www.lyanstudio.com/itopsdesk/)** — interactive, *browser-local* incident and asset management proof of concept. [Incidents](https://www.lyanstudio.com/itopsdesk/incidents.html) · [Assets](https://www.lyanstudio.com/itopsdesk/assets.html) · [Source and automated tests](https://github.com/Granis75/lyanstudio.com/tree/main/itopsdesk). **No authentication or shared backend**.
+- **[Kepler Express](https://github.com/Granis75/Kepler-Express)** — logistics operations reference implementation. [Public UI](https://kepler.lyanstudio.com/). Adoption and business impact are not independently verified.
 
----
+## What these projects demonstrate
 
-## Active Projects
+- Translating operational constraints into data models, interfaces and end-to-end workflows.
+- CRUD, relational consistency, status lifecycles, dashboards and exports.
+- Web interfaces (React, TypeScript, Next.js), PostgreSQL/Supabase integration and desktop/offline development (Electron and SQLite).
+- Explaining technical limitations, documenting decisions and testing core workflows.
 
-### MyBi — Business Operations Tool
+## Evidence and limitations
 
-I use MyBi to manage my own day-to-day freelance activity, from client and mission tracking to invoicing and payment follow-up.
+**Verified public entry points:** StayOps read-only demonstration, IT Ops Desk interactive local demonstration and Kepler's public UI. Repositories for MyBi, StayOps and AlCaisse remain private intentionally. The browser-only AlCaisse presentation is **not** a Windows hardware validation.
 
-**Client → Mission → Invoice → Payment**
+**IT Ops Desk:** [model tests](https://github.com/Granis75/lyanstudio.com/blob/main/itopsdesk/core.test.mjs), [routing tests](https://github.com/Granis75/lyanstudio.com/blob/main/itopsdesk/routes.test.mjs), [architecture and limitations](https://github.com/Granis75/lyanstudio.com/blob/main/itopsdesk/README.md).
 
-### StayOps Core — Hospitality Team Operations
+No unverified client names, revenue improvements or job experience are claimed. For technical reviews of private projects, use documented workflows and scoped demonstrations rather than exposing internal data or secrets.
 
-Active software project focused on room readiness, housekeeping, maintenance, shift handovers, inventory and day-to-day coordination in small hospitality teams.
+## Two complementary websites
 
-### AlCaisse — Offline Point of Sale
+- **[Lyan Studio](https://www.lyanstudio.com/)** — software, prototypes and product work.
+- **[AnisConsult](https://anisconsult.com/)** — operational activity, coordination and processes, in French and English.
 
-Windows-based cash register and stock management software designed to work without internet. Hardware field testing and local regulatory requirements remain to be validated.
----
+**Contact:** [LinkedIn](https://www.linkedin.com/in/anisallouachepro) · [Lyan Studio](https://www.lyanstudio.com/contact.html)
 
-## Approach
-
-I work at the intersection of **operations, product and data**.
-
-My goal is not to add more tools.
-My goal is to build clear systems that make daily work easier to manage, execute and control.
-
----
-
-## Stack
-
-**Frontend:** React, TypeScript, Tailwind
-**Backend:** Supabase / PostgreSQL
-**Infra:** Vercel
-
-Technology supports the work. The focus is always the business workflow.
-
----
-
-## Selected Work
-
-### Kepler Express — Logistics Operations System
-
-A reference implementation connecting missions, expenses, invoicing and payments for logistics operations.
-
-### AnisConsult — Operations Portfolio
-
-Professional portfolio documenting operational projects and process-improvement case studies: https://anisconsult.com/
-
-### Lyan Studio — Software Studio
-
-Portfolio of operational software and internal-tool work: https://www.lyanstudio.com/
----
-
-## Contact
-
-Paris, France
-LinkedIn: https://www.linkedin.com/in/anisallouachepro
-Website: https://www.lyanstudio.com/
+_Updated October 2026. All statuses refer to what is actually documented; production readiness requires independent verification._
